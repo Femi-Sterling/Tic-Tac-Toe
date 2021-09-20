@@ -9,7 +9,6 @@ int checkWin();
 void drawBoard();
 
 int main(){
-	system("color 4a");
 	int player = 1, i ,choice;
 	char mark; // X,O
 	do {
